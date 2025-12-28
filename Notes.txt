@@ -1,0 +1,17 @@
+Git:
+is a Distributed Version Control System
+
+Version Control: helps you control track and manage control over time
+Distributed: Means every developer on your code base has a copy of your code
+including its entire history of changes
+
+hellps navigate code history
+
+[screenshot 1]
+
+Repo:
+Everything in oyur project. htinkn of it as a folder thata has verything about your project
+
+
+
+if a folder is being track by a Git we call it a Repository
